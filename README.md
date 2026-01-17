@@ -19,7 +19,7 @@ Users can view blogs, see details, and create new blogs. The app is fully respon
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/your-username/blog-app-assignment.git
+git clone https://github.com/prashant-mishra-ies-collage/CA-Monk-Blog-Assignment.git
 
 
 Go to project folder:
