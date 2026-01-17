@@ -12,7 +12,8 @@ Users can view blogs, see details, and create new blogs. The app is fully respon
 ## Tech Stack
 - React + TypeScript
 - Tailwind CSS
-- React Query
+- TanStack Query (React Query)
+- React Router DOM
 - Vite
 
 ## Installation
