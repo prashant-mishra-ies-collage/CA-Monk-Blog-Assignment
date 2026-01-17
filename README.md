@@ -24,7 +24,7 @@ git clone https://github.com/prashant-mishra-ies-collage/CA-Monk-Blog-Assignment
 
 
 Go to project folder:
-cd blog-app-assignment
+cd Frontend-Interview
 
 Install dependencies:
 npm install
